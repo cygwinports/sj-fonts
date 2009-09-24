@@ -1,0 +1,4 @@
+category: X11
+requires: fontconfig mkfontdir mkfontscale font-encodings
+sdesc: "Cursive handwriting TTF fonts"
+ldesc: "Two cursive handwriting fonts by Steve Jordi released under the GPL"
